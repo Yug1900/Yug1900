@@ -8,3 +8,6 @@ I live in chile
 - Gaming
 - Tech
 - Trying new things
+## Running a home lab...
+- Love being the arquitect of the systems
+- Hate seting up (repetitive stuff)
