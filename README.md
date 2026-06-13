@@ -9,5 +9,5 @@ I live in chile
 - Tech
 - Trying new things
 ## Running a home lab...
-- Love being the arquitect of the systems
-- Hate seting up (repetitive stuff)
+- Quite hard but fun
+- Hate setting up (repetitive stuff)
