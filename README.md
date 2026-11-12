@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm a student
-I live in chile
+I'm a student and I live in chile
 
 ## What i love
 
